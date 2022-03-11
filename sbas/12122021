@@ -1,0 +1,107 @@
+shreyas@shreyas-pc:~/Documents/Minecraft Bedrock/1.18.2$ sudo ./bedrock_server
+[sudo] password for shreyas: 
+NO LOG FILE! - [] setting up server logging...
+[2021-12-12 11:20:32:521 INFO] Starting Server
+[2021-12-12 11:20:32:521 INFO] Version 1.18.2.03
+[2021-12-12 11:20:32:521 INFO] Session ID 4027b0ed-80aa-4722-b697-2ff89945271c
+[2021-12-12 11:20:32:525 INFO] Level Name: SBAS
+[2021-12-12 11:20:32:578 INFO] Game mode: 0 Survival
+[2021-12-12 11:20:32:578 INFO] Difficulty: 3 HARD
+[2021-12-12 11:20:33:320 INFO] opening worlds/SBAS/db
+[2021-12-12 11:20:39:176 INFO] IPv4 supported, port: 19132
+[2021-12-12 11:20:39:176 INFO] IPv6 supported, port: 19133
+[2021-12-12 11:20:40:408 INFO] Server started.
+[2021-12-12 11:20:40:445 INFO] IPv4 supported, port: 39482
+[2021-12-12 11:20:40:445 INFO] IPv6 supported, port: 57891
+[2021-12-12 11:35:53:255 INFO] Player connected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 11:43:18:847 INFO] Running AutoCompaction...
+[2021-12-12 12:10:03:832 INFO] Running AutoCompaction...
+[2021-12-12 12:17:47:316 INFO] Running AutoCompaction...
+[2021-12-12 12:39:10:464 INFO] Running AutoCompaction...
+[2021-12-12 13:08:14:559 INFO] Player disconnected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 13:14:22:178 INFO] Running AutoCompaction...
+[2021-12-12 13:20:22:218 INFO] Running AutoCompaction...
+[2021-12-12 13:26:22:221 INFO] Running AutoCompaction...
+[2021-12-12 13:32:22:225 INFO] Running AutoCompaction...
+[2021-12-12 13:38:22:228 INFO] Running AutoCompaction...
+[2021-12-12 13:44:22:260 INFO] Running AutoCompaction...
+[2021-12-12 13:50:22:264 INFO] Running AutoCompaction...
+[2021-12-12 13:56:22:268 INFO] Running AutoCompaction...
+[2021-12-12 14:02:22:272 INFO] Running AutoCompaction...
+[2021-12-12 14:08:22:301 INFO] Running AutoCompaction...
+[2021-12-12 14:09:52:930 INFO] Player connected: PROMASTER360GK, xuid: 2535438801547634
+[2021-12-12 14:12:26:325 INFO] Player disconnected: PROMASTER360GK, xuid: 2535438801547634
+[2021-12-12 14:16:24:725 INFO] Running AutoCompaction...
+[2021-12-12 14:22:24:755 INFO] Running AutoCompaction...
+[2021-12-12 14:28:24:759 INFO] Running AutoCompaction...
+[2021-12-12 14:34:24:785 INFO] Running AutoCompaction...
+[2021-12-12 14:40:24:789 INFO] Running AutoCompaction...
+[2021-12-12 14:46:23:960 INFO] Player connected: Vertifiednoob, xuid: 2535407128997250
+[2021-12-12 14:46:24:793 INFO] Running AutoCompaction...
+[2021-12-12 14:56:34:604 INFO] Player connected: PROMASTER360GK, xuid: 2535438801547634
+[2021-12-12 15:27:54:545 INFO] Player disconnected: PROMASTER360GK, xuid: 2535438801547634
+[2021-12-12 15:39:33:315 INFO] Player disconnected: Vertifiednoob, xuid: 2535407128997250
+[2021-12-12 15:41:54:885 INFO] Player connected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 16:02:08:140 INFO] Running AutoCompaction...
+[2021-12-12 16:20:15:990 INFO] Player disconnected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 16:22:19:847 INFO] Running AutoCompaction...
+[2021-12-12 16:28:19:963 INFO] Running AutoCompaction...
+[2021-12-12 16:30:41:309 INFO] Player connected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 16:37:46:297 INFO] Running AutoCompaction...
+[2021-12-12 16:38:45:973 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-12 16:49:52:514 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-12 16:51:12:494 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-12 16:58:37:612 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-12 16:59:24:313 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-12 17:01:27:533 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-12 17:21:36:159 INFO] Running AutoCompaction...
+[2021-12-12 17:35:13:228 INFO] Running AutoCompaction...
+[2021-12-12 17:43:13:292 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-12 18:08:40:783 INFO] Player disconnected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 18:09:05:244 INFO] Player connected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 18:19:16:895 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-12 18:20:00:150 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-12 18:44:05:072 INFO] Player disconnected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 18:44:21:415 INFO] Player connected: LiftedClover639, xuid: 2535434211429555
+[2021-12-12 19:18:10:839 INFO] Player connected: Vertifiednoob, xuid: 2535407128997250
+[2021-12-12 19:29:24:282 INFO] Player disconnected: Vertifiednoob, xuid: 2535407128997250
+[2021-12-12 19:30:03:054 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-12 19:36:42:649 INFO] Player connected: Vertifiednoob, xuid: 2535407128997250
+[2021-12-12 19:40:43:819 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-12 19:58:10:826 INFO] Player connected: Katie Angel33, xuid: 2535435840201060
+[2021-12-12 20:45:31:060 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 20:45:46:093 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 20:46:11:896 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 20:46:20:453 INFO] Player disconnected: Vertifiednoob, xuid: 2535407128997250
+[2021-12-12 20:51:09:353 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 20:54:27:772 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 21:00:08:831 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 21:13:57:767 INFO] Player connected: PROMASTER360GK, xuid: 2535438801547634
+[2021-12-12 21:35:22:363 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-12 21:35:55:895 INFO] Player disconnected: PROMASTER360GK, xuid: 2535438801547634
+[2021-12-12 21:35:56:751 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 21:37:12:568 INFO] Player connected: PROMASTER360GK, xuid: 2535438801547634
+[2021-12-12 21:51:35:628 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 21:53:42:854 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 22:06:51:752 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-12 22:25:43:625 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 22:25:53:980 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 22:26:56:458 INFO] Player disconnected: Katie Angel33, xuid: 2535435840201060
+[2021-12-12 22:28:56:911 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 22:29:06:386 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 22:30:27:286 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 22:34:35:608 INFO] Player connected: Vertifiednoob, xuid: 2535407128997250
+[2021-12-12 22:36:42:770 INFO] Player disconnected: PROMASTER360GK, xuid: 2535438801547634
+[2021-12-12 23:05:35:377 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 23:33:13:630 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-12 23:33:21:530 INFO] Player connected: Sketchez2002, xuid: 2535409630181917
+[2021-12-13 00:04:03:800 INFO] Player disconnected: Sketchez2002, xuid: 2535409630181917
+[2021-12-13 00:43:06:561 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-13 00:43:30:903 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-13 01:10:14:988 INFO] Player disconnected: Vertifiednoob, xuid: 2535407128997250
+[2021-12-13 01:17:31:492 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-13 01:17:50:629 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-13 01:45:05:875 INFO] Player disconnected: Silencer428, xuid: 2533274922117690
+[2021-12-13 01:45:08:310 INFO] Player connected: Silencer428, xuid: 2533274922117690
+[2021-12-13 02:38:31:885 INFO] Player disconnected: LiftedClover639, xuid: 2535434211429555
+[2021-12-13 02:38:33:339 INFO] Player disconnected: Silencer428, xuid: 2533274922117690

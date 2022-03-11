@@ -1,0 +1,6 @@
+-104 168 mid
+-104 215
+
+-153 168
+-153 215
+Layer y=239 start capsuling
